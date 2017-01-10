@@ -1,0 +1,2 @@
+
+int parseFile(const char*);
